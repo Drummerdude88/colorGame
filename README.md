@@ -1,2 +1,2 @@
 # colorGame
-A simple project form my coding bootcamp
+A simple project for my coding bootcamp
